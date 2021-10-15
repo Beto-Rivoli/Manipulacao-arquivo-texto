@@ -1,0 +1,2 @@
+# Manipulacao arquivo texto
+ 
